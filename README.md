@@ -1,3 +1,3 @@
-#Demo 
+# Demo 
 
-Creating the README through GitHub
+Creating the README through GitHub.
